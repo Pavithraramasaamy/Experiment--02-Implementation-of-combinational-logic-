@@ -1,5 +1,8 @@
-# Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
+```
+Developed by:  R.PAVITHRA
+RegisterNumber:  212222230106
+```
+# Experiment 02 Implementation of combinational logic
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -39,8 +42,6 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 ```
 /* 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by:  R.PAVITHRA
-RegisterNumber:  212222230106
 
 module de2(A,B,C,D,F1);
 input A,B,C,D;
@@ -55,9 +56,6 @@ assign F1 = x1|x2|x3|x4|x5;
 endmodule
 */
 ```
-## RTL realization
-
-## Output:
 ## RTL
 ![Screenshot (285)](https://github.com/Pavithraramasaamy/Experiment--02-Implementation-of-combinational-logic-/assets/118596964/66a36459-159a-4571-a725-e5a9dc5d9e0f)
 
